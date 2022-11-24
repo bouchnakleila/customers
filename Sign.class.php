@@ -1,6 +1,6 @@
 <?php
 include 'Database.class.php';
-include 'index.phtml';
+include 'sign.phtml';
 
 class Sign
 {
