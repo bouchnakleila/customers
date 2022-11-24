@@ -19,7 +19,7 @@ function resp2(data){
     $("#phone").html(data['phone']);
     $("#adress").html(data['addressLine2']);
     $("#country").html(data['country']);
-    $(".customer-detail").fadIn(); 
+    $(".customer-detail").css("display","block"); 
     
 }
 
